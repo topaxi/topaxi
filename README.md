@@ -1,22 +1,6 @@
 # Damian Senn
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 261.8 kB Used in GitHub's Storage 
- > 
-> 🏆 356 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 196 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -55,13 +39,6 @@ Neovim                   1 hr 45 mins        ███████████�
 Zsh                      1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.87 % 
 VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
-🐱‍💻 Projects: 
-portal-frontend          1 hr 43 mins        █████████████░░░░░░░░░░░░   50.46 % 
-frontend-shared-packages 44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-labs-node-customize-the-l19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-topaxi                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-
 💻 Operating System: 
 Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
@@ -78,12 +55,7 @@ Twig                     1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/topaxi/topaxi/main/assets/bar_graph.png)
-
-
- Last Updated on 25/02/2023 20:56:59 UTC
 <!--END_SECTION:waka-->
 
 [Blog](https://topaxi.codes/) |
