@@ -1,5 +1,8 @@
 # Damian Senn
 
+[Blog](https://topaxi.codes/) |
+[CV](https://cv.topaxi.ch/)
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -57,6 +60,3 @@ Twig                     1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-[Blog](https://topaxi.codes/) |
-[CV](https://cv.topaxi.ch/)
