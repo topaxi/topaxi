@@ -43,11 +43,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Lua                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Lua                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
