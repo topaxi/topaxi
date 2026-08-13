@@ -4,26 +4,26 @@
 [CV](https://cv.topaxi.ch/)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24400 commits       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-🌆 Daytime                50930 commits       ███████████░░░░░░░░░░░░░░   44.33 % 
-🌃 Evening                36108 commits       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night                  3451 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌞 Morning                24583 commits       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌆 Daytime                51244 commits       ███████████░░░░░░░░░░░░░░   44.31 % 
+🌃 Evening                36324 commits       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌙 Night                  3492 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   19457 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  20126 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                23815 commits       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Thursday                 15330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Friday                   11223 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 9071 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Sunday                   15867 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Monday                   19676 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Tuesday                  20309 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Wednesday                23930 commits       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Thursday                 15366 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Friday                   11279 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Saturday                 9098 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Sunday                   15985 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 
 
@@ -33,42 +33,42 @@ Sunday                   15867 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Rust                     10 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.65 % 
-Markdown                 10 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   41.34 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-sh                       23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Rust                     11 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.07 % 
+Markdown                 9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.09 % 
+Python                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 18 mins      ██████████████░░░░░░░░░░░   56.81 % 
-Claude Code              10 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
+Claude Code              12 hrs 43 mins      █████████████░░░░░░░░░░░░   50.68 % 
+Neovim                   12 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.32 % 
 
 💻 Operating System: 
-Linux                    25 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 45 mins (94.37%)
+⏱ AI Coding Time: 23 hrs 33 mins (93.81%)
 
-✍️ 35,947 lines written by AI, 187 lines written by hand (99.48% AI-written)
+✍️ 38,501 lines written by AI, 220 lines written by hand (99.43% AI-written)
 
-🔤 1,350,507,384 Input Tokens, 3,193,701 Output Tokens
+🔤 1,339,969,180 Input Tokens, 3,183,469 Output Tokens
 
-💵 $4170.78 Estimated AI Cost This Week
+💵 $4160.25 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 48 AI Prompts
+🧠 52 AI Sessions, 47 AI Prompts
 
-Claude                   25,574 lines        █████████████████░░░░░░░░   67.53 % 
-Opus                     11,246 lines        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Sonnet                   1,048 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Claude                   28,255 lines        █████████████████░░░░░░░░   69.68 % 
+Opus                     11,246 lines        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Sonnet                   1,048 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📄 Detailed Prompter — average 511 characters per prompt
+🤖 AI-Driven — 99.43% of written lines came from AI
+📄 Detailed Prompter — average 522 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
