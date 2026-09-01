@@ -9,21 +9,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24910 commits       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-🌆 Daytime                51544 commits       ███████████░░░░░░░░░░░░░░   44.16 % 
-🌃 Evening                36749 commits       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  3505 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌞 Morning                24958 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+🌆 Daytime                51593 commits       ███████████░░░░░░░░░░░░░░   44.15 % 
+🌃 Evening                36778 commits       ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌙 Night                  3519 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   19911 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  20603 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                24218 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Thursday                 15524 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Friday                   11308 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 9123 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Sunday                   16021 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Monday                   20028 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Tuesday                  20603 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                24218 commits       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Thursday                 15524 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Friday                   11308 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Saturday                 9123 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Sunday                   16044 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 
 
@@ -33,45 +33,45 @@ Sunday                   16021 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Markdown                 18 hrs 44 mins      █████████████░░░░░░░░░░░░   51.04 % 
-Rust                     13 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.87 % 
-Python                   2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-TypeScript               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-QML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Markdown                 15 hrs 56 mins      █████████████░░░░░░░░░░░░   50.69 % 
+Rust                     10 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   34.24 % 
+Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+QML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 19 mins      ███████████████████████░░   90.74 % 
-Neovim                   3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Claude Code              28 hrs 2 mins       ██████████████████████░░░   89.17 % 
+Neovim                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 
 💻 Operating System: 
-Linux                    36 hrs 42 mins      █████████████████████████   99.93 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Linux                    31 hrs 25 mins      █████████████████████████   99.91 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 3 mins (98.17%)
+⏱ AI Coding Time: 30 hrs 47 mins (97.86%)
 
-✍️ 26,153 lines written by AI, 366 lines written by hand (98.62% AI-written)
+✍️ 22,635 lines written by AI, 385 lines written by hand (98.33% AI-written)
 
-🔤 2,292,274,227 Input Tokens, 5,326,915 Output Tokens
+🔤 1,873,617,398 Input Tokens, 4,654,144 Output Tokens
 
-💵 $7347.20 Estimated AI Cost This Week
+💵 $4621.34 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 204 AI Prompts
+🧠 89 AI Sessions, 186 AI Prompts
 
-Sonnet                   20,785 lines        ███████████████████░░░░░░   75.70 % 
-Opus                     4,778 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Fable                    1,385 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Claude                   509 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Sonnet                   21,286 lines        ██████████████████████░░░   89.17 % 
+Opus                     2,077 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Claude                   509 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📄 Detailed Prompter — average 1,320 characters per prompt
+🤖 AI-Driven — 98.33% of written lines came from AI
+📚 Verbose Prompter — average 1,592 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.08% of changed lines were hand-edited
+🚀 High AI Trust — 2.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
