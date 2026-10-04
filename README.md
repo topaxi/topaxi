@@ -4,26 +4,26 @@
 [CV](https://cv.topaxi.ch/)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27547 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌆 Daytime                55361 commits       ███████████░░░░░░░░░░░░░░   43.76 % 
-🌃 Evening                39856 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌙 Night                  3748 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+🌞 Morning                27564 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌆 Daytime                55377 commits       ███████████░░░░░░░░░░░░░░   43.74 % 
+🌃 Evening                39885 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌙 Night                  3791 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   21838 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  22447 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                26266 commits       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Thursday                 16772 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   12256 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 9776 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Sunday                   17157 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Monday                   21838 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Tuesday                  22447 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                26266 commits       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Thursday                 16772 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   12256 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Saturday                 9869 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Sunday                   17169 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
 
 
@@ -33,7 +33,7 @@ Sunday                   17157 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Markdown                 11 hrs 37 mins      ███████████████████░░░░░░   75.21 % 
+Markdown                 11 hrs 37 mins      ███████████████████░░░░░░   75.20 % 
 Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 Rust                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 KDL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
@@ -54,11 +54,11 @@ Linux                    15 hrs 27 mins      ███████████�
 
 ✍️ 7,304 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 200,174,980 Input Tokens, 608,199 Output Tokens
+🔤 200,040,506 Input Tokens, 607,991 Output Tokens
 
-💵 $2032.16 Estimated AI Cost This Week
+💵 $2030.80 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 5 AI Prompts
+🧠 70 AI Sessions, 5 AI Prompts
 
 Claude                   7,322 lines         █████████████████████████   100.00 % 
 
