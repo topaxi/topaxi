@@ -4,13 +4,13 @@
 [CV](https://cv.topaxi.ch/)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                34846 commits       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌆 Daytime                65853 commits       ███████████░░░░░░░░░░░░░░   42.28 % 
+🌆 Daytime                65855 commits       ███████████░░░░░░░░░░░░░░   42.28 % 
 🌃 Evening                49541 commits       ████████░░░░░░░░░░░░░░░░░   31.81 % 
 🌙 Night                  5506 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
@@ -21,7 +21,7 @@ Monday                   27463 commits       ████░░░░░░░�
 Tuesday                  28314 commits       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 Wednesday                32578 commits       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 Thursday                 20361 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Friday                   15532 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Friday                   15534 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 Saturday                 11693 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 Sunday                   19805 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
@@ -33,41 +33,41 @@ Sunday                   19805 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Markdown                 16 hrs 39 mins      ████████████████████░░░░░   81.42 % 
-Rust                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Makefile                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Markdown                 15 hrs 32 mins      █████████████████████░░░░   85.66 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Rust                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Makefile                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 11 mins      ███████████████████████░░   93.73 % 
-Neovim                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Claude Code              17 hrs 15 mins      ████████████████████████░   95.09 % 
+Neovim                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 💻 Operating System: 
-Linux                    20 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 51 mins (97.02%)
+⏱ AI Coding Time: 17 hrs 46 mins (97.93%)
 
-✍️ 6,295 lines written by AI, 14 lines written by hand (99.78% AI-written)
+✍️ 5,002 lines written by AI, 14 lines written by hand (99.72% AI-written)
 
-🔤 137,097,625 Input Tokens, 448,290 Output Tokens
+🔤 121,006,132 Input Tokens, 396,415 Output Tokens
 
-💵 $1393.36 Estimated AI Cost This Week
+💵 $1229.85 Estimated AI Cost This Week
 
-🧠 153 AI Sessions, 5 AI Prompts
+🧠 144 AI Sessions, 4 AI Prompts
 
-Claude                   6,295 lines         █████████████████████████   100.00 % 
+Claude                   5,002 lines         █████████████████████████   100.00 % 
 Pi                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 6,089 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
